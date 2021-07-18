@@ -25,4 +25,70 @@ const shivani = {
 [![trophy](https://github-profile-trophy.vercel.app/?username=shivu-srk&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
+**🐱 My Github Data** 
+
+> 🏆 44 Contributions in the Year 2021
+ > 
+> 📦 78.6 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 6 Public Repositories 
+ > 
+> 🔑 4 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    23 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.04% 
+🌆 Daytime    48 commits     █████████░░░░░░░░░░░░░░░░   35.56% 
+🌃 Evening    64 commits     ███████████░░░░░░░░░░░░░░   47.41% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.63% 
+Tuesday      19 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.07% 
+Wednesday    21 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.56% 
+Thursday     27 commits     █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Friday       23 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.04% 
+Saturday     12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.89% 
+Sunday       20 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.81%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   5 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+TypeScript               4 repos             ██████░░░░░░░░░░░░░░░░░░░   26.67% 
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+Dart                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
+
+```
+
+
+
+ Last Updated on 18/07/2021
 <!--END_SECTION:waka-->
