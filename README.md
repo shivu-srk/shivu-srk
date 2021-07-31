@@ -64,16 +64,16 @@ Sunday       22 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 1 hr 41 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 41 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+30-days-of-react-basics  1 hr 41 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 41 mins        █████████████████████████   100.0%
 
 ```
 
@@ -90,5 +90,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2021
+ Last Updated on 31/07/2021
 <!--END_SECTION:waka-->
