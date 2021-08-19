@@ -29,7 +29,7 @@ const shivani = {
 
 > 🏆 44 Contributions in the Year 2021
  > 
-> 📦 78.6 kB Used in Github's Storage 
+> 📦 78.7 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,5 +90,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/08/2021
+ Last Updated on 19/08/2021
 <!--END_SECTION:waka-->
