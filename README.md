@@ -29,7 +29,7 @@ const shivani = {
 
 > 🏆 108 Contributions in the Year 2021
  > 
-> 📦 82.2 kB Used in GitHub's Storage 
+> 📦 82.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,5 +90,5 @@ Swift                    3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 19/12/2021
+ Last Updated on 20/12/2021
 <!--END_SECTION:waka-->
