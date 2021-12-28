@@ -8,7 +8,7 @@ const shivani = {
     educationDetails: "Currently pursuing B.E CSE",
     askMeAbout: ["web dev", "deep learning", "app dev", "gardening"],
     myTechStack: ["React Js", "C/C++", "Python"],
-    learningStatus: "I'm currently learning flutter",
+    learningStatus: "I'm currently learning android development",
     funFact: "It’s all 0’s and 1’s😂"
   };
 ```
