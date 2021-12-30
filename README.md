@@ -64,17 +64,16 @@ Sunday       26 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 24 mins        █████████████████████░░░░   84.85% 
-YAML                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.15%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 39 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-serverless-typescript    1 hr 39 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 39 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -91,5 +90,5 @@ Swift                    3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 29/12/2021
+ Last Updated on 30/12/2021
 <!--END_SECTION:waka-->
