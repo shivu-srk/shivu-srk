@@ -64,18 +64,16 @@ Sunday       23 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-CSV                      51 mins             ████████████████████░░░░░   82.7% 
-Python                   10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.3%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 2 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-CertificateGenerator     41 mins             ████████████████░░░░░░░░░   66.85% 
-GDev-Profile-Badge-Scrape20 mins             ████████░░░░░░░░░░░░░░░░░   33.15%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 2 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -92,5 +90,5 @@ Swift                    3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 19/01/2022
+ Last Updated on 26/01/2022 18:45:57 UTC
 <!--END_SECTION:waka-->
