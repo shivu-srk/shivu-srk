@@ -25,7 +25,7 @@ const shivani = {
 [![trophy](https://github-profile-trophy.vercel.app/?username=shivu-srk&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **🐱 My GitHub Data** 
 
@@ -92,5 +92,5 @@ Swift                    3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 11/05/2022 18:50:03 UTC
+ Last Updated on 12/05/2022 18:52:24 UTC
 <!--END_SECTION:waka-->
