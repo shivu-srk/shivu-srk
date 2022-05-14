@@ -29,7 +29,7 @@ const shivani = {
 
 **🐱 My GitHub Data** 
 
-> 🏆 9 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2022
  > 
 > 📦 83.3 kB Used in GitHub's Storage 
  > 
@@ -92,5 +92,5 @@ Swift                    3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 13/05/2022 18:50:00 UTC
+ Last Updated on 14/05/2022 18:48:18 UTC
 <!--END_SECTION:waka-->
