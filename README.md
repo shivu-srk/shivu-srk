@@ -66,17 +66,16 @@ Sunday       15 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Git Config               0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-unite                    0 secs              ███████████████░░░░░░░░░░   63.18% 
-RemoveIt                 0 secs              █████████░░░░░░░░░░░░░░░░   36.82%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -93,5 +92,5 @@ Swift                    3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 19/07/2022 18:50:51 UTC
+ Last Updated on 21/07/2022 18:54:30 UTC
 <!--END_SECTION:waka-->
