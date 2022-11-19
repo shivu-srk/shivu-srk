@@ -1,4 +1,4 @@
-# <p align="center">️ _Hi There, <img src="https://raw.githubusercontent.com/SanjayDevTech/SanjayDevTech/master/assets/wave.gif" alt="waving hand" width="33px"> I'm Shivani_</p>
+# <p align="center">️ _Hi There, 👋 I'm Shivani_</p>
 
 <img align="right" alt="Me Coding" height="200" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
@@ -19,6 +19,9 @@ const shivani = {
 
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivu-srk&layout=compact&theme=vue-dark"/>
    <br/>
+   
+## 🚀 Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=shivu-srk&theme=vue-dark&show_icons=true" alt="Top Langs" width="50%" />
    
 ## 🏆 GitHub Trophies
 
