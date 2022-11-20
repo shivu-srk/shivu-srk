@@ -28,7 +28,7 @@ const shivani = {
 [![trophy](https://github-profile-trophy.vercel.app/?username=shivu-srk&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-278%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-278%20hrs%2047%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -36,7 +36,7 @@ const shivani = {
  > 
 > 📦 227.7 kB Used in GitHub's Storage 
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 16 Public Repositories 
  > 
@@ -69,16 +69,18 @@ Sunday       14 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     9 mins              █████████████░░░░░░░░░░░░   52.4% 
+JavaScript               8 mins              ████████████░░░░░░░░░░░░░   47.6%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  17 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+shivani-npm              16 mins             ████████████████████████░   95.63% 
+shivu-srk                0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.37%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  17 mins             █████████████████████████   100.0%
 
 ```
 
@@ -95,5 +97,5 @@ HTML                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/11/2022 18:44:52 UTC
+ Last Updated on 20/11/2022 18:44:42 UTC
 <!--END_SECTION:waka-->
