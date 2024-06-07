@@ -1,17 +1,20 @@
-# <p align="center">️ _Hi There, 👋 I'm Shivani_</p>
-
-<img align="right" alt="Me Coding" height="200" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<h1 align="center"><b>Hi , I'm Shivani </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=A+Web+Developer;Love+to+learn+new+stuffs..<3">
+</p>
 
 ## 👩‍💻 **A Little About Me:**
-```jsx
+<img align="right" alt="Me Coding" height="150" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+
+```js
 const shivani = {
-    educationDetails: "Currently pursuing B.E CSE",
+    educationDetails: "B.E CSE",
     askMeAbout: ["web dev", "deep learning", "app dev", "gardening"],
     myTechStack: ["Ruby on Rails", "React Js", "C/C++", "Python"],
-    learningStatus: "I'm currently learning android development",
     funFact: "It’s all 0’s and 1’s😂"
   };
 ```
+
 
 <br/>
 
